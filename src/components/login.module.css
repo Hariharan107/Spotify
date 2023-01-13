@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px)  {
+    img {       
+      width: 400px;
+      position: relative;
+      bottom:100px;
+    }
+    button{
+        position: relative;
+        bottom: 120px;
+    }
+   
+  }
