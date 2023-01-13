@@ -1,4 +1,4 @@
-**t is Spotify Clone created with Spotify Web API**
+**It is Spotify Clone created with Spotify Web API**
 
 Snapshots are included for the cloned_websites
 
